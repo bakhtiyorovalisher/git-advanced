@@ -5,5 +5,5 @@ FKMN FKMN FKMN FKMN!
 
 
 BARDAK BARDAK
-
+Version 1.0
 
